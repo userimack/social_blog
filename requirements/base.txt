@@ -25,3 +25,6 @@ Flask-PageDown==0.2.1
 Markdown==2.6.5
 bleach==1.4.2
 
+#authentication for api
+Flask-HTTPAuth==2.7.1
+
